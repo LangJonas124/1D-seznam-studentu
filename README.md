@@ -2,6 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
-- Tady možná někdo bude
-- Zzz...
+- Lang Jonáš
+- Nikdo jiný
+- tady asu ž nikdo nebude
